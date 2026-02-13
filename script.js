@@ -2,13 +2,13 @@
 const photos = [
   { id: 1, src: "photos/01.jpg", correct: true },
   { id: 2, src: "photos/02.jpg", correct: true },
-  { id: 3, src: "photos/03.jpg", correct: false },
+  { id: 3, src: "photos/03.jpg", correct: true },
   { id: 4, src: "photos/04.jpg", correct: true },
-  { id: 5, src: "IMG_3004.jpg", correct: false },
-  { id: 6, src: "photos/06.jpg", correct: false },
+  { id: 5, src: "IMG_3004.jpg", correct: true },
+  { id: 6, src: "photos/06.jpg", correct: true },
   { id: 7, src: "photos/07.jpg", correct: true },
-  { id: 8, src: "photos/08.jpg", correct: false },
-  { id: 9, src: "photos/09.jpg", correct: false },
+  { id: 8, src: "photos/08.jpg", correct: true },
+  { id: 9, src: "photos/09.jpg", correct: true },
 ];
 
 // Genera la cuadrícula
